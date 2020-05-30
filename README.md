@@ -5,7 +5,7 @@ See generator: https://fishwickid.github.io/Password-Generator-with-Javascript/
 
 First you will see all the variables with array values
 
-assets/Variables.png
+https://fishwickid.github.com.io/fishwickid/assets/Variables.png
 
 On button click the primary function will begin. This function will initiate a series of 
 prompts asking the user for a number input, then confirm alerts asking them what type of 
